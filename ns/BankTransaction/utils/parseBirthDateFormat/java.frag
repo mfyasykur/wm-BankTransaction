@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">parseBirthDateFormat</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgY3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQoNCnRyeSB7DQogICAg
+U3RyaW5nIHN0cmluZ0JpcnRoRGF0ZSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoY3Vyc29yLCAic3Ry
+aW5nQmlydGhEYXRlIik7DQoNCiAgICAvLyBQYXJzZSBzdHJpbmdCaXJ0aERhdGUgaW50byBEYXRl
+IG9iamVjdA0KICAgIFNpbXBsZURhdGVGb3JtYXQgc2RmID0gbmV3IFNpbXBsZURhdGVGb3JtYXQo
+Inl5eXktTU0tZGQiKTsNCiAgICBEYXRlIGRhdGUgPSBzZGYucGFyc2Uoc3RyaW5nQmlydGhEYXRl
+KTsNCg0KICAgIElEYXRhVXRpbC5wdXQoY3Vyc29yLCAiYmlydGhEYXRlIiwgZGF0ZSk7DQogICAg
+DQp9IGNhdGNoIChFeGNlcHRpb24gZSkgew0KICAgIHRocm93IG5ldyBTZXJ2aWNlRXhjZXB0aW9u
+KGUpOw0KfSBmaW5hbGx5IHsNCiAgICBjdXJzb3IuZGVzdHJveSgpOw0KfQ==</value>
+</Values>

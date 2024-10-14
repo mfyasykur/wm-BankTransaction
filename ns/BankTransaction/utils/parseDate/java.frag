@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">parseDate</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgY3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQoNCnRyeSB7DQogICAg
+U3RyaW5nIGRhdGVTdHJpbmcgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKGN1cnNvciwgImRhdGVTdHJp
+bmciKTsNCg0KICAgIC8vIFBhcnNlIHN0cmluZ0JpcnRoRGF0ZSBpbnRvIERhdGUgb2JqZWN0DQog
+ICAgU2ltcGxlRGF0ZUZvcm1hdCBzZGYgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1k
+ZCBISDptbTpzcyIpOw0KICAgIERhdGUgZGF0ZSA9IHNkZi5wYXJzZShkYXRlU3RyaW5nKTsNCg0K
+ICAgIElEYXRhVXRpbC5wdXQoY3Vyc29yLCAiZGF0ZSIsIGRhdGUpOw0KICAgIA0KfSBjYXRjaCAo
+RXhjZXB0aW9uIGUpIHsNCiAgICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihlKTsNCn0gZmlu
+YWxseSB7DQogICAgY3Vyc29yLmRlc3Ryb3koKTsNCn0=</value>
+</Values>

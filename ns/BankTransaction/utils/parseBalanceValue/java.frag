@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">parseBalanceValue</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgY3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQoNCnRyeSB7DQoJU3Ry
+aW5nIGJhbGFuY2VTdHJpbmcgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKGN1cnNvciwgImJhbGFuY2VT
+dHJpbmciKTsNCglCaWdEZWNpbWFsIGJhbGFuY2VWYWx1ZSA9IG51bGw7DQoJDQoJaWYgKGJhbGFu
+Y2VTdHJpbmcgPT0gbnVsbCkgew0KCQliYWxhbmNlVmFsdWUgPSBuZXcgQmlnRGVjaW1hbCgwKTsN
+Cgl9IGVsc2Ugew0KCQliYWxhbmNlVmFsdWUgPSBuZXcgQmlnRGVjaW1hbChiYWxhbmNlU3RyaW5n
+KTsNCgl9DQoJDQoJSURhdGFVdGlsLnB1dChjdXJzb3IsICJhdmFpbGFibGVCYWxhbmNlIiwgYmFs
+YW5jZVZhbHVlKTsNCgkNCn0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7DQogICAgdGhyb3cgbmV3IFNl
+cnZpY2VFeGNlcHRpb24oZSk7DQp9IGZpbmFsbHkgew0KICAgIGN1cnNvci5kZXN0cm95KCk7DQp9
+</value>
+</Values>
